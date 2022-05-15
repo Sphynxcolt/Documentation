@@ -2,7 +2,7 @@
 
 # Welcome to the Documentation site! 🎉
 
-> This site was built to help you solve any problems you might be having with apps in the AssistantApps range. This webpage is completely edittible and we encourage you to create [Issues][docsIssues] and [Pull Requests][docsPullRequests] on github to keep this website up to date! 
+> This site was built to help you solve any problems you might be having with apps in the AssistantApps range. This webpage is completely editable and we encourage you to create [Issues][docsIssues] and [Pull Requests][docsPullRequests] on github to keep this website up to date! 
 
 ## Quick Links
 
